@@ -1,4 +1,4 @@
-# Ect.-Guru2-IOS
+# Etc.-Guru2-IOS
 서울여대 2021 겨울 Guru2 IOS분반 *팀 Ect.* (3조)입니다.
 
 
