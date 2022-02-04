@@ -14,7 +14,6 @@ pod 'Firebase/Firestore'
 pod 'Firebase/Storage'
 pod 'FirebaseFirestoreSwift'
 pod 'iCarousel'
-
 ```
 
 
