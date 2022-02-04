@@ -4,6 +4,20 @@ Ect.팀(3조)입니다.
 
 **[프로젝트 압축파일 다운로드](https://drive.google.com/file/d/1sWNwhn49mDeNpU3ul2YdfEketAokX9mB/view?usp=sharing)**
 
+```
+target 'Guru' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Guru
+pod 'SwiftyGif'
+pod 'Firebase/Firestore'
+pod 'Firebase/Storage'
+pod 'FirebaseFirestoreSwift'
+pod 'iCarousel'
+end
+```
+
 
 ---
 2022.02.04
